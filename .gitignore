@@ -136,4 +136,4 @@ dmypy.json
 
 
 # connections 
-/.devcontainer/connections.toml
+.devcontainer/connections.toml
