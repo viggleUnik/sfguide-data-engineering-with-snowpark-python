@@ -137,3 +137,5 @@ dmypy.json
 
 # connections 
 .devcontainer/connections.toml
+
+README.md
